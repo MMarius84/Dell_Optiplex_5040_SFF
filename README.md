@@ -9,7 +9,7 @@ PC Spesc:
 
 CPU:    I5-6500
 GPU:    Intel HD 530 (iGPU)
-RAM:    4Gb DDR3L - 1600 Mhz
+RAM:    16Gb DDR3L - 1600 Mhz
 
 **!!!!!!!!  IMPORTANT   !!!!!!!!!!**
 
